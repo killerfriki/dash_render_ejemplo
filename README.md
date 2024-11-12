@@ -1,2 +1,2 @@
-# dash_render_ejemplo
+# dash render ejemplo
 Ejemplo de una aplicación en dash
